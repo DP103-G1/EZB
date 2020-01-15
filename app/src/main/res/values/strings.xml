@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Order</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textNoNetwork">no network connection available</string>
+    <string name="textNOMenu">no Menu</string>
+    <string name="textNOFood">未點選餐點</string>
+</resources>
